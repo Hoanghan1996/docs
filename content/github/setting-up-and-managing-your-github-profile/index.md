@@ -1,4 +1,4 @@
----
+docs/content/github/setting-up-and-managing-your-github-profile/index.md---
 title: Setting up and managing your GitHub profile
 shortTitle: Profiles
 redirect_from:
